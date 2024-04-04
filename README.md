@@ -8,11 +8,7 @@ Background Changer is a simple web-based application that allows users to change
 - Provides a variety of colors to choose from.
 - Clean and intuitive user interface.
 - Responsive design, compatible with various devices.
-
-## Demo
-
-You can see a live demo of the Background Changer [here](link-to-demo).
-
+  
 ## Usage
 
 To use the Background Changer locally, follow these steps:
