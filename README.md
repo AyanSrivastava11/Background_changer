@@ -16,7 +16,7 @@ To use the Background Changer locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    [git clone https://github.com/your-username/background-changer.git](https://github.com/AyanSrivastava11/Background_changer.git)
+     (https://github.com/AyanSrivastava11/Background_changer.git)
     ```
 
 2. Open the project directory:
